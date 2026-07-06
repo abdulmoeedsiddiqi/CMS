@@ -1,4 +1,4 @@
-# 🏫 GIKI Campus Management System (CMS)
+# 🏫 CampusX + | Centralized University Management Portal
 
 A centralized digital platform for managing academic and campus-wide administrative activities at GIK Institute of Engineering Sciences & Technology. The system provides separate interfaces for students and administrators, offering a unified solution to replace fragmented manual processes.
 
